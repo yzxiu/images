@@ -35,7 +35,7 @@ setcap cap_net_bind_service=+ep /usr/bin/caddy
 # vim /etc/caddy/Caddyfile
 mkdir /etc/caddy
 cat >/etc/caddy/Caddyfile <<EOF
-:443, *.yuyuuu.com 
+:443, *.********.com 
 tls {
   dns alidns {
     access_key_id "***************"
