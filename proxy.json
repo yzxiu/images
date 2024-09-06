@@ -1,18 +1,9 @@
 {
   "rules": [
     {
-      "domain": []
-    },
-    {
       "domain_keyword": [
         "zsythink.net"
       ]
-    },
-    {
-      "domain_suffix": []
-    },
-    {
-      "ip_cidr": []
     }
   ],
   "version": 1

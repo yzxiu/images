@@ -1,20 +1,10 @@
 {
   "rules": [
     {
-      "domain": []
-    },
-    {
       "domain_keyword": [
-        "ck4.top",
         "bicv.com",
         "aliyuncs"
       ]
-    },
-    {
-      "domain_suffix": []
-    },
-    {
-      "ip_cidr": []
     }
   ],
   "version": 1
