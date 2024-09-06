@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_keyword": []
+    },
+    {
+      "domain_suffix": []
+    },
+    {
+      "ip_cidr": []
+    }
+  ],
+  "version": 1
+}
