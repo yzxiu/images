@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "imgur.com"
+      ]
+    }
+  ],
+  "version": 1
+}
