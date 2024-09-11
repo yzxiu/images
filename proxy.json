@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain_keyword": [
-        "zsythink.net",
         "twitch.tv"
       ]
     }
